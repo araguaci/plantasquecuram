@@ -1010,3 +1010,5 @@ Neste caso, para poder retirar todos os princípios medici nais de uma ou mais p
 ## Copyright © 2000, virtualbooks.com.br 
 
 Todos os direitos reservados a Editora Virtual Books Online M&M Editores Ltda. É proibida a reprodução do conteúdo desta página em qualquer meio de comunicação, eletrônico ou impresso, sem autorização escrita da Editora.
+
+Deploy by [docsify](https://docsify.js.org/#/deploy)
