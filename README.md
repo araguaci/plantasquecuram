@@ -1,6 +1,6 @@
-## PLANTAS QUE CURAM - HUGO CARAVACA 
+# PLANTAS QUE CURAM - HUGO CARAVACA 
 
-### PREFÁCIO
+## PREFÁCIO
 
 Desde os tempos mais remotos, as plantas sempre estive ram presentes na vida do homem. A utilização dos vege tais com fins terapêuticos é anterior ao desenvolvimento da ciência. Cada povo possui sua própria listagem de ervas medicinais, geralmente plantas comuns no território em que habitam, cujas aplicações são transmitidas através de ge rações. Nas tribos indígenas, por exemplo, o pajé, uma das maiores autoridades depois do cacique, nada mais é que um profundo conhecedor dos segredos do mundo vegetal, um curandeiro naturalista.
 
