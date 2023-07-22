@@ -2,21 +2,64 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Plantas que Curam</title>
+  <title>PLANTAS QUE CURAM</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
+  <link rel="icon" href="https://www.artesdosul.com/favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- Share Image -->
+  <link href="http://www.artesdosul.com/images/artesdosul.png" rel="image_src" />
+  <!-- Open Graph Meta Tags -->
+  <meta content="Random Tyms" property="og:site_name" />
+  <meta content="Random Tyms: ARTES DO SUL" property="og:title" />
+  <meta content="" property="og:description" />
+  <meta content="http://www.artesdosul.com/images/artesdosul.png" itemprop="image primaryImageOfPage" property="og:image" />
+  <meta content="image/webp" property="og:image:type" />
+  <meta content="175" property="og:image:width" />
+  <meta content="130" property="og:image:height" />
+  <meta content="article" property="og:type" />
+  <meta content="http://www.artesdosul.com/" property="og:url" />  
+  <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+    /> 
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
+      title="vue"
+    /> 
+  <style>
+    nav.app-nav li ul {
+      min-width: 100px;
+    } 
+  </style>
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">Loading ...</div> 
+  <script src="//cdn.jsdelivr.net/npm/docsify-plugin-carbon@1"></script>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      search: 'auto', // default
+      name: 'PLANTAS QUE CURAM',
+      repo: 'https://github.com/araguaci/plantasquecuram',
+      auto2top: true,
+      coverpage: false,
+      executeScript: true,
+      loadSidebar: false,
+      loadNavbar: true, 
+      share: {
+          reddit: true,
+          linkedin: true,
+          facebook: true,
+          twitter: true,
+          whatsapp: true,
+          telegram: true,
+      }
     }
   </script>
+  <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script> 
 </body>
 </html>
